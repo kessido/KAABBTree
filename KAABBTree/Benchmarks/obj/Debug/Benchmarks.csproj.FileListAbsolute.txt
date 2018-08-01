@@ -1,0 +1,11 @@
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\bin\Debug\Benchmarks.exe.config
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\bin\Debug\Benchmarks.exe
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\bin\Debug\Benchmarks.pdb
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\bin\Debug\geometry3Sharp.dll
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\bin\Debug\KAABBTree.dll
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\bin\Debug\KAABBTree.pdb
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\obj\Debug\Benchmarks.csprojAssemblyReference.cache
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\obj\Debug\Benchmarks.csproj.CoreCompileInputs.cache
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\obj\Debug\Benchmarks.csproj.CopyComplete
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\obj\Debug\Benchmarks.exe
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\Benchmarks\obj\Debug\Benchmarks.pdb

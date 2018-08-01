@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "geometry3Sharp/1.0.144": {
+        "type": "package",
+        "compile": {
+          "lib/net45/geometry3Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net45/geometry3Sharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win": {
+      "geometry3Sharp/1.0.144": {
+        "type": "package",
+        "compile": {
+          "lib/net45/geometry3Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net45/geometry3Sharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x64": {
+      "geometry3Sharp/1.0.144": {
+        "type": "package",
+        "compile": {
+          "lib/net45/geometry3Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net45/geometry3Sharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x86": {
+      "geometry3Sharp/1.0.144": {
+        "type": "package",
+        "compile": {
+          "lib/net45/geometry3Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net45/geometry3Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "geometry3Sharp/1.0.144": {
+      "sha512": "OCPvoNWobr2RH+Vo1uy/OCvRB5TR/xBRDXH2ZKQgs7oEAnrtBxbjg9xyfNaVhBuXw6vE0aokafda1m5yz0WqWg==",
+      "type": "package",
+      "path": "geometry3sharp/1.0.144",
+      "files": [
+        "geometry3sharp.1.0.144.nupkg.sha512",
+        "geometry3sharp.nuspec",
+        "lib/net45/geometry3Sharp.dll",
+        "lib/netstandard2.0/geometry3Sharp.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "geometry3Sharp >= 1.0.144"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\t-idkess\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\t-idkess\\Source\\Repos\\KAABBTree\\KAABBTree\\KAABBTree.csproj",
+      "projectName": "KAABBTree",
+      "projectPath": "C:\\Users\\t-idkess\\Source\\Repos\\KAABBTree\\KAABBTree\\KAABBTree.csproj",
+      "packagesPath": "C:\\Users\\t-idkess\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\t-idkess\\Source\\Repos\\KAABBTree\\KAABBTree\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\t-idkess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "geometry3Sharp": {
+            "target": "Package",
+            "version": "[1.0.144, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

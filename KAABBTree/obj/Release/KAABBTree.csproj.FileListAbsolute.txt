@@ -1,0 +1,8 @@
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\bin\Release\KAABBTree.dll
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\bin\Release\KAABBTree.pdb
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\bin\Release\geometry3Sharp.dll
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\obj\Release\KAABBTree.csprojAssemblyReference.cache
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\obj\Release\KAABBTree.csproj.CoreCompileInputs.cache
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\obj\Release\KAABBTree.csproj.CopyComplete
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\obj\Release\KAABBTree.dll
+C:\Users\t-idkess\Source\Repos\KAABBTree\KAABBTree\obj\Release\KAABBTree.pdb
